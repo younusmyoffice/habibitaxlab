@@ -1,0 +1,116 @@
+build a website for accounts and taxation using html, css, javascript only with black theme and all text in golden mettalic fonts, i will share you the content 
+
+
+🌐 Website Structure for Habibi Tax Lab
+1. Homepage (Hero Section)
+Headline: Global Company Setup & Compliance Experts
+
+Subheadline: Specializing in international business formation, tax registration, government compliance, banking support, and visa solutions.
+
+Call to Action Button: 👉 [Get Started Today]
+
+
+
+2. About Us
+Title: Who We Are & What We Offer
+
+Content: Habibi Tax Lab specializes in global business setup, tax registrations, government compliance, banking support, and visa solutions. We provide comprehensive services that enable businesses to establish and operate seamlessly across international markets with full regulatory adherence.
+
+
+
+3. Core Services
+Title: Our Core Services
+
+List (as bullet points or cards):
+* Business Setup (Mainland, Free Zone, Offshore)
+* Corporate Tax, VAT, ESR, AML, UBO Compliance
+* Accounting & Audit Services
+* Visa & Immigration Support
+* Bank Account Assistance
+* Annual Filings & Secretarial Services
+
+
+
+4. Countries We Serve
+Title: Global Presence – 10+ Jurisdictions
+
+Cards or Grid Layout (with flags/icons):
+* 🇦🇪 United Arab Emirates
+* 🇸🇦 Saudi Arabia
+* 🇺🇸 United States
+* 🇬🇧 United Kingdom
+* 🇮🇳 India
+* 🇴🇲 Oman
+* 🇸🇬 Singapore
+* 🇧🇭 Bahrain
+* 🇶🇦 Qatar
+* 🇭🇰 Hong Kong
+
+Each country links to a dedicated Country Setup Page (see below).
+
+
+
+5. Country-Specific Pages (Example: UAE)
+(Repeat structure for each country)
+
+United Arab Emirates – Company Setup
+* Key Benefits:
+    * 0% personal income tax
+    * Free Zone corporate tax (0%)
+    * 100% foreign ownership available
+    * Strong logistics infrastructure & global business hub
+* Required Documents:
+    * Passport copies
+    * Trade name reservation
+    * Memorandum of Association
+    * Lease agreement
+    * Capital proof documentation
+* Timeline:
+    * Free Zone setup: 5–10 days
+    * Mainland setup: 2–4 weeks
+* Our Services:
+    * License renewal
+    * Corporate tax registration
+    * ESR, AML, UBO compliance
+    * Visa & Emirates ID processing
+    * Accounting & audit
+    * Bank account setup assistance
+
+(Repeat similar sections for Saudi Arabia, USA, UK, etc., using data from the PDF.)
+
+
+
+6. Why Choose Us?
+Title: Why Choose Habibi Tax Lab?
+
+Features (with icons):
+* Global Expertise, Local Precision: Deep knowledge of local regulations, cultural nuances, and market-specific requirements across 10+ countries.
+* Fast, End-to-End Setup: From licensing to tax registration to visa processing – all handled seamlessly through a single point of contact.
+* Compliance-First Approach: 100% adherence to tax laws, ESR, AML, VAT, labor rules, and UBO norms.
+* Transparent Pricing: Clear, upfront cost breakdown per country – no hidden fees.
+* Strong Data Security: Encrypted storage & strict confidentiality protocols for all client documents.
+* Complete Business Support: From startup to scale – formation, compliance, payroll, audit, banking, visas, and ongoing support.
+
+
+
+7. Contact Section
+Title: Let’s Build Your Global Business Together
+
+Content: Whether you're establishing your first international presence or expanding into new markets, Habibi Tax Lab provides the expertise, support, and local knowledge you need for success. Our team is ready to guide you through every step of your global business journey.
+
+Your Business. Our Compliance.
+
+Contact Info:
+* 📞 Phone: +971 77 604 10869
+* ✉️ Email: info@habibitaxlab.com
+* 🌍 Services: Global Business Setup, Tax Compliance, Corporate Services
+
+CTA Button: [Schedule a Free Consultation]
+
+
+
+8. Footer
+* Quick Links: Home | Services | Countries | About | Contact
+* Social Media Icons (if applicable)
+* © 2025 Habibi Tax Lab. All Rights Reserved.
+* Privacy Policy | Terms of Service

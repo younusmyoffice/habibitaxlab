@@ -1,0 +1,22 @@
+/taxtion
+    /assets
+        /attached_assets
+        /client
+        /styles.css
+        /script.js
+    /includes
+        header.php
+        footer.php
+    /pages
+        index.php
+        about.php
+        contact.php
+        countries.php
+        services.php
+        saudi.php
+        qatar.php
+        oman.php
+        india.php
+        hongkong.php
+        bahrain.php
+    .htaccess
